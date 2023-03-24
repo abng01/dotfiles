@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = alicia.bang404@gmail.com
+	name = Alicia Bang
